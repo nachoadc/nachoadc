@@ -24,8 +24,8 @@
 #### 🤝 Contacta conmigo
 
 <p>
-    <a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:ignanicolasfuentes@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://www.linkedin.com/in/ignacionfuentes/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <hr>
