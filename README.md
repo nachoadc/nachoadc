@@ -34,34 +34,34 @@
 
 <p>
   
-  ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
     
 </p>
 <p>
   
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-  ![Express](https://img.shields.io/badge/-ExpressJS-010101?style=flat-square&logo=Express&logoColor=ffffff)
-  ![Sequelize](https://img.shields.io/badge/-Sequelize-3C76C3?style=flat-square&logo=Sequelize&logoColor=ffffff)
-  ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 </p>
 
 
 <p>
 
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-212121?style=flat-square&logo=postgresql)
-  ![MySQL](http://img.shields.io/badge/-MySQL-2B5D80?style=flat-square&logo=mysql&logoColor=ffffff)
-  ![MongoDB](http://img.shields.io/badge/-MongoDB-49b230?style=flat-square&logo=mongodb&logoColor=ffffff)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </p>
 
 <p>
 
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git%20-%23F05033?style=flat-square&logo=git&logoColor=white)
-  ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-  ![Linux](http://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </p>
 
