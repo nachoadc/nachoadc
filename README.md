@@ -12,11 +12,9 @@
 <hr>
 
 <pre>
-💻 Desarrollador backend autodidacta y apasionado por la tecnología.
+💻 Desarrollador backend con Python y apasionado por la tecnología.
 📝 Tengo un gran interés en el desarrollo backend, la inteligencia artificial y la ciberseguridad.
-🌱 Aprendiendo sobre ciencia de datos e inteligencia artificial.
-🌟 Idiomas principales: JavaScript & Python.
-🤔 Actualmente me encuentro abierto a una <b>nueva oportunidad laboral</b>.
+🌱 Aprendiendo de forma constante sobre desarrollo backend, ciencia de datos e inteligencia artificial.
 </pre>
 
 <hr>
@@ -35,19 +33,9 @@
 <p>
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    
-</p>
-<p>
-  
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 </p>
-
 
 <p>
 
