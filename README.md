@@ -14,7 +14,7 @@
 <pre>
 💻 Desarrollador backend con Python y apasionado por la tecnología.
 📝 Tengo un gran interés en el desarrollo backend, la inteligencia artificial y la ciberseguridad.
-🌱 Aprendiendo de forma constante sobre desarrollo backend, ciencia de datos e inteligencia artificial.
+🌱 Aprendiendo de forma constante sobre desarrollo backend, automatización e inteligencia artificial.
 </pre>
 
 <hr>
