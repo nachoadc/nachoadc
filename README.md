@@ -12,9 +12,9 @@
 <hr>
 
 <pre>
-💻 Desarrollador backend con Python y apasionado por la tecnología.
-📝 Tengo un gran interés en el desarrollo backend, la inteligencia artificial y la ciberseguridad.
-🌱 Aprendiendo de forma constante sobre desarrollo backend, automatización e inteligencia artificial.
+💻 Desarrollador backend y apasionado por la tecnología.
+📝 Tengo un gran interés en el desarrollo de software, cloud computing y la ciberseguridad.
+🌱 Aprendiendo sobre Go y el desarrollo en la nube. 
 </pre>
 
 <hr>
@@ -34,6 +34,7 @@
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Go](https://img.shields.io/badge/go-00add8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 </p>
 
