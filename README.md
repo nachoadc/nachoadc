@@ -15,7 +15,7 @@
 💻 Desarrollador backend y apasionado por la tecnología.
 📝 Tengo un gran interés en el desarrollo de software, cloud computing y la ciberseguridad.
 🌱 Aprendiendo sobre Typescript, NestJS y Docker.
-💫 Me gusta bailar, leer y soy fanático de sagas como Star Wars o The Lord of the rings.
+💫 Me gusta bailar, hacer deporte y soy fanático de sagas como Star Wars o The Lord of the rings.
 </pre>
 
 <hr>
