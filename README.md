@@ -13,7 +13,7 @@
 
 <pre>
 💻 Desarrollador backend y apasionado por la tecnología.
-📝 Tengo un gran interés en el desarrollo de software, cloud computing y la ciberseguridad.
+📝 Tengo un gran interés en el desarrollo de software y cloud computing.
 🌱 Aprendiendo sobre Typescript, NestJS y Docker.
 </pre>
 
