@@ -12,9 +12,8 @@
 <hr>
 
 <pre>
-💻 Desarrollador backend y apasionado por la tecnología y el open-source.
-📝 Tengo un gran interés en el desarrollo de software y en el avance de la tecnología en todo el mundo.
-🌱 Aprendiendo sobre Typescript, NestJS y Rust en mi tiempo libre.
+💻 Desarrollador backend, apasionado por la tecnología.
+🌱 Aprendiendo sobre Typescript y NestJS.
 </pre>
 
 <hr>
