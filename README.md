@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenido, soy Ignacio Fuentes 🚀</h1>
+<h1 align="center">Bienvenido, soy Ignacio Nicolás Fuentes 🚀</h1>
 
 <p align="center">
 	<a href="https://github.com/nachoadc">
@@ -12,7 +12,7 @@
 <hr>
 
 <pre>
-💻 Desarrollador backend, apasionado por la tecnología.
+💻 Desarrollador web, apasionado por la tecnología.
 🌱 Aprendiendo sobre Typescript y NestJS.
 </pre>
 
